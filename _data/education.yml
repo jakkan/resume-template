@@ -1,14 +1,15 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards:
-    - award: Quickest to fall asleep
-    - award: Fastest donut eater
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Stanford University & University of California, Berkeley
+  uni: High Tech Management Success Factors
+  year: 2009
+  summary: I got the opportunity to attend a summer program at Berkeley and Stanford through my alma mater Chalmers. The summer program consisted of fast-paced classes as well as visits to startups and tech companies in the area. The ultimate goal of the summer program was to become more equipped to succeed at high tech business creation.
 
-- degree: High School Diploma
-  uni: Springfield High
-  year: 1984
-  award: Least likely to graduate College
-  summary: You can choose to have either a single or multiple awards
+- degree: MSc, Management and Economics of Innovation
+  uni: Chalmers University of Technology
+  year: 2007 - 2009
+  summary: This was a very exiting master's program with a focus on innovation. I learned about what makes large companies fail in the face of radical innovation and the practices that seem to lead to better outcomes. I also learned good lessons about the challenges of starting a tech business. We exercised things like evaluating business opportunities and writing business plans.
+
+- degree: BSc, Industrial Engineering and Management
+  uni: Chalmers University of Technology
+  year: 2003 - 2006
+  summary: This program prepared me for management positions in technology based companies. The education spans management, microeconomics, math and natural sciences.

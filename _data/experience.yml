@@ -1,19 +1,40 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: DigiExam
+  position: Full Stack Web Developer
+  duration: Feb 2016 - Jan 2018
+  summary: "I worked as a member of DigiExam's scrum team. I was involved in technical design, planning and implementation. I worked with our entire tech stack, including: Go, AngularJS, C++, C#, Objective-C, and Google Cloud Platform."
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Twiddlebit
+  position: Software Developer
+  duration: Jan 2017 - Present
+  summary: Twiddlebit is my company for contract jobs and independent software development.
 
+- company: Avance
+  position: Full Stack Web Developer
+  duration: Oct 2016 - Dec 2016
+  summary: I was the only employee at this startup. We used Angular, Ionic and Django to build our product. The startup closed down after a few months.
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: XLD Solutions
+  position: Board Member
+  duration: Oct 2016 - Present
+  summary: My responsibility is to act as a sounding board when needed.
+
+- company: XLD Solutions
+  position: Founder
+  duration: Aug 2013 - Oct 2016
+  summary: XLD Solutions helps customers become more productive when working with spreadsheets. I brought in and helped around 80 customers, including departments of some of Sweden's largest companies.
+
+- company: Navetti
+  position: Management Consultant
+  duration: May 2011 - Jun 2013
+  summary: I worked as a management consultant with large multi-national clients. We did projects that had a huge impact on our customer's bottom line.
+
+- company: Chalmers Innovation
+  position: Project Manager
+  duration: Jan 2010 - May 2010
+  summary: I was responsible for a project that worked to transform technical research into startups. I had two full time equivalents in my team. We increased all metrics at a higher rate than expected.
+
+- company: Chalmers Innovation
+  position: Business Idea Evaluator
+  duration: May 2009 - Jan 2010
+  summary: I evaluated research based startup ideas and developed business plans for those ideas. I presented those business plans to our investment board.

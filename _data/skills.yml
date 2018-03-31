@@ -1,12 +1,30 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+- skill: Front End Web Development
+  description: Proficient in JavaScript, HTML and CSS. Experience working with AngularJS and jQuery.
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: Back End Web Development
+  description: Experience using Go and Python. 
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: Agile Methodologies
+  description: Good knowledge of agile methodologies. 2 years working in a scrum team with a rotating scrum master role.
+
+- skill: Entrepreneurship
+  description: Successfully founded a company and made a small exit. MSc in Management and Economics of Innovation.
+
+- skill: Google Cloud Platform
+  description: "Extensive knowledge of Google Cloud Platform services including: App Engine, Compute Engine, Datastore, Kubernetes, Cloud Storage, PubSub, Stackdriver, Machine learning APIs and BigQuery."
+
+- skill: User Experience
+  description: An eye for good user experience. Basic experience of wire framing and design tools.
+
+- skill: Desktop Development
+  description: Experience building a cross-platform application using Electron, web technologies and C++. Some experience developing in Objective-C for MacOS and C# for Windows.
+
+- skill: Mobile Development
+  description: Created two rudimentary cross platform mobile applications using Ionic and React Native.
+
+- skill: Development tooling
+  description: Experience working with source management (Git, GitHub), ticketing (Jira, Trello), documentation (Confluence) and continuous integration (Travis).
+
+- skill: Machine learning
+  description: Theoretical knowledge of building machine learning models.

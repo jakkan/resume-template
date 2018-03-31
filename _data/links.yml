@@ -1,5 +1,18 @@
 # links
-- url: "#"
-  description: Springfield Poker Club
-- url: "#"
-  description: Springfield Donut Eater's User Group
+- url: "https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670"
+  description: "Code Complete: A Practical Handbook of Software Construction"
+
+- url: "https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X"
+  description: "The Pragmatic Programmer: From Journeyman to Master"
+
+- url: "https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319"
+  description: "Code: The Hidden Language of Computer Hardware and Software"
+
+- url: "https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686"
+  description: "The Elements of Computing Systems: Building a Modern Computer from First Principles"
+
+- url: "https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898"
+  description: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
+
+- url: "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654"
+  description: "The Design of Everyday Things"
