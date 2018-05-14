@@ -1,13 +1,13 @@
 # Jobs
+- company: Omegapoint
+  position: Full Stack Web Developer
+  duration: Mar 2018 -
+  summary: "Thus far I have been working with ASP.NET, ReactJS and jQuery."
+
 - company: DigiExam
   position: Full Stack Web Developer
   duration: Feb 2016 - Jan 2018
   summary: "I worked as a member of DigiExam's scrum team. I was involved in technical design, planning and implementation. I worked with our entire tech stack, including: Go, AngularJS, C++, C#, Objective-C, and Google Cloud Platform."
-
-- company: Twiddlebit
-  position: Software Developer
-  duration: Jan 2017 - Present
-  summary: Twiddlebit is my company for contract jobs and independent software development.
 
 - company: Avance
   position: Full Stack Web Developer
@@ -16,8 +16,8 @@
 
 - company: XLD Solutions
   position: Board Member
-  duration: Oct 2016 - Present
-  summary: My responsibility is to act as a sounding board when needed.
+  duration: Oct 2016 - Mar 2018 
+  summary: My responsibility was to help in the hand over of customers and to act as a sounding boards for ideas about how to expand the business.
 
 - company: XLD Solutions
   position: Founder

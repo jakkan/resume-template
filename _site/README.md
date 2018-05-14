@@ -3,7 +3,6 @@
 ## Deploy
 
 * jekyll build
-* cs ./_site
-* git commit --no-amend -m "Release."
+* commit and push
 
-Netlify publishes the new content to www.jakovperica.com.
+Netlify publishes the contents of the _site folder to www.jakovperica.com.
